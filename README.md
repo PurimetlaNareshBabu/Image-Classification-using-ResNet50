@@ -25,5 +25,4 @@ Image of ResNet Architecture
 ![resnet](https://user-images.githubusercontent.com/58980493/124715152-48e75600-df20-11eb-9f40-e9a237b5a821.png)
 # Reference List:
    https://arxiv.org/pdf/1512.03385.pdf 
-   http://www.deeplearningmodel.net/
 
